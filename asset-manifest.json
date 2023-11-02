@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-github-pages/static/css/main.6d6cd8fb.css",
+    "main.js": "/react-github-pages/static/js/main.3748079e.js",
+    "static/media/sucre-removebg-preview.png": "/react-github-pages/static/media/sucre-removebg-preview.ba254efbf80bb6d8726a.png",
+    "static/media/tranche-agrumes-orange-murs-isoles-blanc_146671-19260-removebg-preview.png": "/react-github-pages/static/media/tranche-agrumes-orange-murs-isoles-blanc_146671-19260-removebg-preview.98f397df29e9db10da42.png",
+    "static/media/orange-removebg-preview.png": "/react-github-pages/static/media/orange-removebg-preview.9539891a4860ab2c62d4.png",
+    "static/media/raisin-removebg-preview.png": "/react-github-pages/static/media/raisin-removebg-preview.63ce43376661e0d69536.png",
+    "static/media/oeuf-removebg-preview.png": "/react-github-pages/static/media/oeuf-removebg-preview.f8633b75ee28f124f908.png",
+    "static/media/citron-removebg-preview.png": "/react-github-pages/static/media/citron-removebg-preview.390abdbebe6713dc78b6.png",
+    "static/media/lait-removebg-preview.png": "/react-github-pages/static/media/lait-removebg-preview.d531bea0301cb66d911c.png",
+    "static/media/tasse-removebg-preview.png": "/react-github-pages/static/media/tasse-removebg-preview.d0fd0ab640e0a154da35.png",
+    "static/media/glace-removebg-preview.png": "/react-github-pages/static/media/glace-removebg-preview.780b265bde81fe19cdfd.png",
+    "static/media/c1.avif": "/react-github-pages/static/media/c1.3a00c3603d8bd380f8fb.avif",
+    "static/media/c_3.avif": "/react-github-pages/static/media/c_3.4783073274bf7c8fe7ba.avif",
+    "static/media/c_2.avif": "/react-github-pages/static/media/c_2.3cdaf9ea8309f9331a5b.avif",
+    "index.html": "/react-github-pages/index.html",
+    "main.6d6cd8fb.css.map": "/react-github-pages/static/css/main.6d6cd8fb.css.map",
+    "main.3748079e.js.map": "/react-github-pages/static/js/main.3748079e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d6cd8fb.css",
+    "static/js/main.3748079e.js"
+  ]
+}
